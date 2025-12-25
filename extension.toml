@@ -1,0 +1,7 @@
+id = "kaimandres"
+name = "Kaimandres"
+schema_version = 1
+version = "1.0.0"
+authors = ["martellev <vf.hann2723@gmail.com>"]
+description = "The official Zed port for Kaimandres.nvim."
+repository = "https://github.com/MartelleV/kaimandres-zed"
