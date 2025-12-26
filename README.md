@@ -10,8 +10,7 @@
 
 <p align="center">
   <img src="screenshots/1.png" width="80%" alt="Kaimandres Preview 1: Rust and Vue in two windows" />
-  <img src="screenshots/2.png" width="80%" alt="Kaimandres Preview 2: TypeScript, Replacing Symbols" />
-  <img src="screenshots/3.png" width="80%" alt="Kaimandres Preview 3: TypeScript, Git Panels and Diffs" />
+  <img src="screenshots/2.png" width="80%" alt="Kaimandres Preview 2: TypeScript, Git Panels and Diffs" />
 </p>
 
 **[View Live Preview on Zed-Themes](https://zed-themes.com/themes/-NvUnJul7Bvewn1wS29Ff)**
